@@ -52,19 +52,20 @@ export const sliderMessageImage = sliderMessageTeam;
 
 export const messageTeam = [
 
-    {
-        clientName:'Moritz Bombach',
-        designation:' UI Developer',
-        content:'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident'
-    },
-    {
-        clientName:'James Wisachi',
-        designation:'Backened Developer',
-        content:'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident'
-    },
-    {
-        clientName:'Maria Rai',
-        designation:'Principal Architect',
-        content:'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident'
-    }
+    {clientName :'Sumeet Sawhney',
+    designation:'Founder',
+    content :"I’ve worked with some of the best economists at Federal Reserve.  Finance, Economics, Hospitality and Technology are some of my interests.  I love building beautiful products, services and just about anything.  I enjoy spending time with family, travel, appreciate all types of arts/architecture and cuisines."
+   },
+   {clientName :'Jennifer Pohland Gaymu',
+    designation:'Co-Founder',
+    content :"I’ve led the finance team of a few big fashion brands in NYC. I enjoy working with creative and driven people.  I love doing triathlons – running, swimming and cycling and being a super mom."
+   },
+   {clientName :'Chin Te Liu',
+    designation:'Data Scientist / Strategist',
+    content :"I am an obsessive problem solver. Always contemplating better solutions to every problem and sometimes to problems others have not yet perceived. I am a certified Ski and Snowboard Instructor although I have yet to quit my day job."
+   },
+   {clientName :'Ajay Sethi',
+    designation:'Head of Engineering',
+    content :"Working with any high-tech equipment is my passion.  From days of MS DOS, Macintosh to today’s serverless GCP / AWS, I’m enjoying, learning and deploying the latest IT solutions for customers.I like being on hills, camping and cooking vegetarian food."
+   }, 
 ]
