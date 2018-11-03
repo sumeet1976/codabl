@@ -1,0 +1,20 @@
+
+
+.language-container{
+
+    margin-top: 100px;
+    padding-left: 60px;
+
+}
+
+.language-title{
+    width: 48%;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    color: #000000;
+}

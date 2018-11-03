@@ -1,0 +1,54 @@
+
+
+
+.someInsight-text{
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+}
+.someInsight-div{
+    width: 45%;
+    height: 45%;
+    overflow: hidden;
+}
+
+.someInsight-company{
+
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 1.03;
+    color: #000000;
+}
+
+.someInsight-blueBox{
+    width: 164px;
+  height: 3px;
+  border: solid 1px #4717f5;
+  background-color: #4717f5;
+  margin-top: 28px;
+
+}
+
+.someInsight-content{
+    margin-top: 40px;
+    width: 84%;
+    font-size: 14.2px;
+    line-height: 1.33;
+    color: #4a4a4a;
+}
+
+.someInsight-knowMore{
+    width: 120px;
+    height: 40px;
+    margin-top: 30px;
+    line-height: 40px;
+    background-color: #4717f5;
+    font-size: 16px;
+    letter-spacing: 2.3px;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+}

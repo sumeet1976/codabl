@@ -1,0 +1,139 @@
+
+.homeService-div{
+   
+    background-color: #ffffff;
+    margin-top: 120px;
+    padding: 0px 0px 72px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.homeService-text{
+    font-family: Lato;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    font-weight: normal;
+
+}
+
+.homeService-title{
+   
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.03;
+    color: #000000;
+}
+
+.homeService-bluebox{
+    width: 150px;
+    height: 4px;
+    margin-top: 6px;
+    margin-left: 4px;
+    background-color: #4717f5;
+    border: 1px solid  #4717f5;
+}
+.homeService-bluebox-active{
+    background-color: #ffffff; 
+}
+
+.homeService-content{
+    margin-top: 40px;
+    font-size: 16px;
+    line-height: 1.33;
+    color: #4a4a4a;
+   
+}
+
+.homeService-slider-div{
+    width: 70%;
+    background-color:#0e0a19;
+    padding: 150px 0px 90px 0px;
+}
+
+ .homeService-slider-div .slick-slider{
+     width: 92%;
+ }
+
+.homeService-slider{
+  
+    background-color: #ffffff;
+    padding: 30px 30px 20px 0px;
+    width: 250px !important; 
+    /* height: 200px; */
+    border-radius: 4px;
+    margin-right: 40px;
+    height: 320px;
+ 
+}
+
+.homeService-slider-active{
+    background-color: #4717f5; 
+}
+
+
+
+.homeService-slider-div .slick-list{
+    margin-left: 30px !important
+}
+
+.homeService-slider-div  .slick-dots li button{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+}
+
+.homeService-slider-div .slick-dots li button:before{
+    display: none;
+}
+
+.homeService-slider-div .slick-dots li.slick-active button{
+    background-color: white;
+}
+
+.homeService-slider-div  .slick-next:before{
+    display: none;
+}
+
+.homeService-slider-div .slick-dots{
+    bottom:-50px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.homeService-serviceName {
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 1.6;
+    color: #000000;
+
+} 
+
+.homeService-serviceName-active{
+    color: #ffffff;
+}
+
+.homeService-serviceContent {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #4a4a4a;
+    height: 150px;
+    overflow: hidden;
+} 
+.homeService-serviceContent-active{
+    color: #ffffff;
+}
+
+.homeService-knowMore{
+    font-size: 16px;
+    margin-top: 40px;
+    line-height: 2;
+    color: #4a4a4a;
+    cursor: pointer;
+
+} 
+.homeService-knowMore-active{
+    color: #ffffff;
+}

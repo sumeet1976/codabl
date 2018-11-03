@@ -1,0 +1,60 @@
+.mot-container{
+    margin-top: 80px
+}
+
+.mot-bluebox{
+    width: 135px;
+    height: 8px;
+    background-color: #4717f5; 
+    border:  1px solid  #4717f5;
+
+}
+
+.mot-title{
+    
+    padding: 0px 10px 0px 10px;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.03;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.mot-image-div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: -50px;
+    padding: 0px 80px 0px 80px
+}
+
+.mot-name{
+  
+    font-family: LucidaGrande;;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.6;
+    letter-spacing: 1.4px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    
+}
+
+.mot-designation{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #787d88;
+    margin-top: 8px;
+}

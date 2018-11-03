@@ -1,0 +1,102 @@
+
+.rp-common-text{
+
+    font-family: Lato;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    font-weight:normal;
+
+}
+
+
+.rp-title{
+    width: 350px;
+    height: 250px;
+    background-position: right;
+    background-size: 220px 250px;
+    background-repeat: no-repeat;
+    /* padding-top: 200px; */
+}
+
+
+.rp-div{
+    background-color: #ffffff;
+    padding: 30px 80px 0px 80px;
+}
+
+.rp-title-text{
+    
+    font-size: 35px;
+    padding-top: 120px;
+    font-weight: 900;
+    line-height: 1.03;
+    text-align: left;
+    color: #000000;
+
+}
+
+.rp-title-whitebox{
+
+    width: 150px;
+    height: 4px;
+    background-color: #4717f5;
+    border:  1px solid  #4717f5;
+    margin-right: 15px;
+    margin-top: 10px;
+
+}
+
+.rp-title-content{
+    
+    font-size: 16px;
+    line-height: 1.33;
+    text-align: right;
+    color: #4a4a4a;
+    width: 30%;
+    margin-top: 140px;
+}
+
+.rp-projects-div{
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 50px;
+}
+
+.rp-client-detail{
+    padding: 15px 25px 10px 0px;
+    width: 20%;
+    z-index: 2;
+    display: flex;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.rp-client-bluebox{
+    width: 20px;
+    height: 10px;
+    margin-top: 4px;
+    background-color: #4717f5;
+}
+
+.rp-client-projectTitle{
+    width: 180px;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1.3px;
+    color: #000000;
+}
+
+.rp-client-title{
+
+    font-size: 14px;
+    margin-top: 4px;
+    letter-spacing: 1px;
+    color: #4a4a4a;
+}

@@ -1,0 +1,33 @@
+
+
+.bp-container{
+    display:flex ; 
+    flex-wrap:wrap;
+    padding:0px 60px 0px 60px;
+    justify-content:center; 
+    margin-left:-40px;
+}
+
+.bp-title{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.6;
+    letter-spacing: 1.4px;
+    color: #1d212c;
+    margin-top: 20px;
+}
+
+.bp-date{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: #787d88;
+    margin-top: 6px;
+}

@@ -1,0 +1,75 @@
+
+
+.contact-container{
+   
+    padding-top: 170px;
+    padding-bottom: 80px;
+}
+
+.contact-haveProject{
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.contact-bluebox{
+    width: 208px;
+    border: solid 3px #4717f5;
+    margin-top: 8px;
+}
+
+.contact-content{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #000000;
+
+}
+
+.contact-location-bluebox{
+    width: 380px;
+    height: 300px;
+    border: solid 4px #4717f5;
+
+}
+
+.contact-location-image{
+    z-index: 50;
+    margin-left: 40px;
+    margin-top: -250px;
+    /* width: 56%; */
+}
+
+.contact-head{
+   
+    font-family: PierSans;
+  font-size: 30px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.7;
+  letter-spacing: normal;
+  color: #15181f;
+}
+
+
+.contact-address{
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #000000;
+    width: 55%;
+}
