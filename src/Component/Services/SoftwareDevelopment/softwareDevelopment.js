@@ -12,7 +12,7 @@ const SoftwareDevelopment = (props) =>{
             
             <div style = {{width:'50%'}}  >
                 <img src = {props.detail.image} style = {{marginTop:'10px',  width:'100%', 
-                height:'450px'}}/>
+                height:'410px'}}/>
             </div>
 
             <div style = {{width:'45%'}}>    

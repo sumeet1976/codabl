@@ -13,7 +13,7 @@ const BlogsPage  = (props) =>{
                 props.detail.map((item,i) =>
                   
                     <div style = {{marginLeft:"40px", width :'26%'}}>
-                        <img src = {item.image} style = {{width:"100%", height :'240px'}} />
+                        <img src = {item.image} style = {{width:"100%", height :'220px'}} />
 
                         <div className = 'bp-title'>{item.title} </div>
                         <div className = 'bp-date'>{item.dateOfBlog} </div>

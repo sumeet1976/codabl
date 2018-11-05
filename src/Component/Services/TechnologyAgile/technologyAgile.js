@@ -14,7 +14,7 @@ const TechnologyAgile = (props) =>{
 
             <div style ={{width:'40%'}}>
                 <img src = {props.detail.image} style = {{marginTop:'86px', width:'100%',
-                                                          height:'380px'}} />
+                                                          height:'360px'}} />
             </div>
         </div>
     )

@@ -17,7 +17,7 @@ const OtherProjects = (props)  =>{
                     props.details.map((item,i) =>
                     
                     <div style = {{width:'31.5%'}}>
-                        <img src = {item.image} style = {{width:"95%", height:"220px"}}  />
+                        <img src = {item.image} style = {{width:"95%", height:"200px"}}  />
                         <div className = 'otherProjects-common otherProjects-project-title'>{item.title + "............"}  </div>
                         <div className = 'otherProjects-common otherProjects-content'>{item.content} </div>
                     </div>    
