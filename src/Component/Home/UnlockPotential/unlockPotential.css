@@ -1,9 +1,9 @@
 
 .unlock-div{
     width: 100%;
-    height: 600px;
+    height: 680px;
     background-repeat: no-repeat;
-    background-size: 100% 600px;
+    background-size: 100% 100%;
 }
 
 
@@ -33,7 +33,7 @@
     line-height: 1.03;
     letter-spacing: normal;
     color: #ffffff;
-    margin-top: 300px;
+    margin-top: 360px;
 }
 
 .unlock-whiteBox{

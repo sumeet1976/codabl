@@ -37,10 +37,7 @@ class Contact extends Component{
                                 </div> */}
                             </div>
 
-                            <div  style  ={{marginTop:'30px'}}>
-                                <div  className = 'contact-content'>Email</div>
-                                <div  className = 'contact-content'>info@codabl.com</div>
-                            </div>    
+                               
 
                         </div>
                     </div> 
@@ -52,13 +49,27 @@ class Contact extends Component{
                             <div className = 'contact-location-image'> 
                                 <img src = {contactLocation} style  ={{width:'650px', height:'380px'}} /> </div>
                             
-                            <div style = {{width:'30%', marginTop:'-220px', marginLeft:'80px'}}>
-                                <div className = 'contact-head'>Head Office</div>
-                                <div className = 'contact-address'>
-                                    <div>175 Varick Street,</div>
-                                    <div>New York,</div>
-                                    <div>NY 10014</div>
-                                </div>    
+                            <div style = {{width:'30%', marginTop:'-260px', marginLeft:'80px'}}>
+                                
+                                <div>
+                                    <div className = 'contact-head'>Head Office</div>
+                                    <div className = 'contact-address'>
+                                        <div>175 Varick Street,</div>
+                                        <div>New York,</div>
+                                        <div>NY 10014</div>
+                                    </div>
+                                </div> 
+                                
+                                <div style = {{marginTop:'30px'}} >
+                                    <div  className = 'contact-content'>EUROPE</div>
+                                    <div  className = 'contact-content'>609 423 7941</div>
+                                </div>
+
+                                <div  style  ={{marginTop:'30px'}}>
+                                    <div  className = 'contact-content'>Email</div>
+                                    <div  className = 'contact-content'>info@codabl.com</div>
+                                </div> 
+
                             </div>
                         </div>    
                     </div>

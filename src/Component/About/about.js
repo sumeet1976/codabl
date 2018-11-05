@@ -9,6 +9,7 @@ import MessageFromTeam from './MessageFromTeam/messageFromTeam';
 import PassionVision from './PassionVision/passionVision';
 import WeAreCodabl from './WeAreCodabl/weAreCodabl';
 
+
 import {codablAboutUs, passionVisionContent, meetTeamImage, sliderMessageImage, messageTeam} from '../../utils/aboutUtils';
 
 
@@ -21,7 +22,7 @@ class About extends Component{
 
     render(){
          return(
-             <div style ={{paddingBottom :'80px'}}>
+             <div style ={{paddingBottom :'140px'}}>
                 
                 <WeAreCodabl detail = {codablAboutUs} onClickGetInTouch = {this.onClickGetInTouch} />
                 
@@ -31,7 +32,7 @@ class About extends Component{
                 
                 <MeetOurTeam  detail = {meetTeamImage} />
                 <MessageFromTeam sliderMessageImage = {sliderMessageImage} messageTeam = {messageTeam}/>
-
+                
              </div>
          )
     }

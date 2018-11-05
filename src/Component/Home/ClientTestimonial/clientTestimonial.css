@@ -1,9 +1,9 @@
 
 
 .ct-div{
-    height: 550px;
+    height: 600px;
     padding:0px 150px 0px 150px;
-    background-size: 100% 550px;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
@@ -37,7 +37,7 @@
 
 .ct-div .slick-dots{
     
-    bottom: -135px;
+    bottom: -200px;
     /* margin-top: 180px; */
     text-align: left;
     display: flex !important;

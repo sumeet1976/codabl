@@ -38,8 +38,8 @@ class App extends Component {
             <div className = 'app-nav-link' >
               <div className="navLinks"><NavLink to="/"  activeClassName={"active"} className="navLabel">HOME</NavLink></div>
               <div className="navLinks navLabel-margin"><NavLink to="/about"  activeClassName={"active"} className="navLabel ">ABOUT</NavLink></div>
-              <div className="navLinks navLabel-margin"><NavLink to="/projects"  activeClassName={"active"} className="navLabel ">PROJECTS</NavLink></div>
               <div className="navLinks navLabel-margin"><NavLink to="/services"  activeClassName={"active"} className="navLabel ">SERVICES</NavLink></div>
+              <div className="navLinks navLabel-margin"><NavLink to="/projects"  activeClassName={"active"} className="navLabel ">PROJECTS</NavLink></div>
               <div className="navLinks navLabel-margin"><NavLink to="/blog"  activeClassName={"active"} className="navLabel ">BLOG</NavLink></div>
               <div className="navLinks navLabel-margin" style= {{marginRight:'200px'}}><NavLink to="/contact"  activeClassName={"active"} className="navLabel ">CONTACT</NavLink></div>
             </div>

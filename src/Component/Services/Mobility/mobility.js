@@ -12,7 +12,7 @@ const Mobility = (props) =>{
         <div className = 'mobility-container'>
             
             <div className = 'mobility-title'>
-                Mobility : Mobile App: UX Design + UI Design + Development</div>
+                Mobile App: UX Design + UI Design + Development</div>
             <div className = 'mobility-bluebox'></div>
 
             <div style = {{marginTop:'100px', display:'flex', padding: '0px 0px 0px 20px'}}>

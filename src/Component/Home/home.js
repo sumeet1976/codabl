@@ -47,6 +47,8 @@ class Home extends Component{
                     serviceTitleContent = {serviceTitleContent}/>
                     
                     <ClientTestimonial detailsClient = {detailsClient} backgroundImageSlider = {clientTestimonyImage}/>
+                    
+              
               </div>
          )
     }

@@ -11,7 +11,8 @@ import {serviceQuote,
         librariesMobility,
         frameworkMobility,
         graphqlMobility,
-        clientTestimony
+        clientTestimony,
+        dataEngineeringCloud
         } from '../../utils/serviceUtils';
 
 import ServiceQuote from './ServiceQuote/serviceQuote';
@@ -22,6 +23,7 @@ import CloudComputing from './CloudComputing/cloudComputing';
 import Technology from './TechnologyAgile/technologyAgile';
 import Languages from './Languages/languages';
 import ClientTestimonial from '../Home/ClientTestimonial/clientTestimonial';
+import DataEngineering from './DataEngineering/dataEngineering'
 
 class Services extends Component{
 
@@ -30,6 +32,8 @@ class Services extends Component{
              <div className = 'service-container'>
                
                 <ServiceQuote  detail = {serviceQuote}/>
+
+                
                 <SoftwareDevelopment detail = {softwareDevelopment}/>
                 <Languages  language = {languagesMobility} 
                             library = {librariesMobility}
@@ -39,7 +43,9 @@ class Services extends Component{
                 <CloudComputing detail = {cloudComputing}/>
                 <Technology detail = {technologies}/>
 
-                <div style = {{marginTop:'40px'}}>
+                <DataEngineering detail = {dataEngineeringCloud} />
+
+                <div style = {{marginTop:'80px'}}>
                     <div className = 'service-client-title'>Client Testimonials</div>
                     <div className = 'service-client-bluebox'></div>
 

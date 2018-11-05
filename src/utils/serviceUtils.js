@@ -241,3 +241,17 @@ export const clientTestimony = {
 }
 
 
+export const dataEngineeringCloud = {
+
+    title:'Data Engineering on Google Cloud Platform ',
+    content:['Design and build data processing systems on Google Cloud Platform',
+             'Big Data Analytics on Google Cloud DataProc by running Spark / Hive / Pig jobs on Hadoop cluster.',
+            'Create, evaluate and train Machine Learning Predictive Models (Neural Networks) using TensorFlow and Cloud ML.',
+            'Use Natural Language Processing API, sentiment and entity analysis to produce meaningful results from unstructured data. Convert all form of text such as notes, messages, reviews, emails for business analytics purpose.',
+            'Leverage unstructured data using Spark and ML APIs on Cloud DataProc.',
+            'Process batch and streaming data by implementing autoscaling pipelines on Cloud Dataflow.',
+            'Serverless Data Analysis to derive business insights from extremely large datasets. '],
+
+    widthContent:'85%',
+    widthBlueBox:'140px',
+}

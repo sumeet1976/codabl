@@ -11,7 +11,8 @@ const SoftwareDevelopment = (props) =>{
         <div className = 'sd-container'>
             
             <div style = {{width:'50%'}}  >
-                <img src = {props.detail.image} style = {{marginTop:'10px',  width:'100%', height:'380px'}}/>
+                <img src = {props.detail.image} style = {{marginTop:'10px',  width:'100%', 
+                height:'450px'}}/>
             </div>
 
             <div style = {{width:'45%'}}>    

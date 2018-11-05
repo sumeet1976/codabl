@@ -15,7 +15,7 @@ const ProjectOddOne  = (props) =>{
 
                 <div style = {{display:'flex', justifyContent:'space-between', paddingLeft:"50px"}}> 
                     <ProjectGist  details = {props.details} />
-                    <img src = {props.details.image} style = {{width:'50%', height:'365px'}}  />
+                    <img src = {props.details.image} style = {{width:'50%', height:'430px'}}  />
                 </div>
 
                 <div style = {{padding:'0px 60px 0px 60px'}}> 
