@@ -13,7 +13,7 @@ const ProjectEvenOne  = (props) =>{
             <div style = {{marginTop:'100px'}}>
 
                 <div style = {{display:'flex', justifyContent:'space-between',paddingRight:'50px'}}> 
-                    <img src = {props.details.image} style = {{width:'50%', height:'430px'}}  />
+                    <img src = {props.details.image} style = {{width:'50%', height:'400px'}}  />
                     <ProjectGist  details = {props.details}/>
                 </div>
                 

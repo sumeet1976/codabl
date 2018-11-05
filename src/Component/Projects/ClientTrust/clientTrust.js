@@ -13,7 +13,7 @@ const ClientTrust = (props) =>{
                 <div className = 'ct-content-div'> {props.clientTrustDetail.content}  </div>
             </div>
 
-            <img src = {props.clientTrustDetail.image} style = {{width : "75%", height:'520px'}} />
+            <img src = {props.clientTrustDetail.image} style = {{width : "75%", height:'480px'}} />
         </div>
     )
 }
