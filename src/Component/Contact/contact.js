@@ -47,7 +47,7 @@ class Contact extends Component{
 
                         <div style  ={{display:'flex'}}>
                             <div className = 'contact-location-image'> 
-                                <img src = {contactLocation} style  ={{width:'650px', height:'380px'}} /> </div>
+                                <img src = {contactLocation} style  ={{width:'650px', height:'430px'}} /> </div>
                             
                             <div style = {{width:'30%', marginTop:'-260px', marginLeft:'80px'}}>
                                 
