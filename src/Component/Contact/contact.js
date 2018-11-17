@@ -61,7 +61,7 @@ class Contact extends Component{
                                 </div> 
                                 
                                 <div style = {{marginTop:'30px'}} >
-                                    <div  className = 'contact-content'>EUROPE</div>
+                                    <div  className = 'contact-content'>Tel</div>
                                     <div  className = 'contact-content'>609 423 7941</div>
                                 </div>
 
